@@ -1,2 +1,2 @@
 # Crea-Un-Personaje
-Repo para recordar lo que olvidé XD
+Repo para recordar lo que olvidé XD. Diagnóstico desarrollo de apps.
